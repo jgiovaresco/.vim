@@ -1,7 +1,6 @@
-.vim
-====
 
 My vim configuration
+
 
 Deployment
 ==========
