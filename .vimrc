@@ -12,8 +12,16 @@ call vundle#rc()
 
 
 " Plugins
+
+" vundle
 Bundle 'gmarik/vundle'
 
+" peaksea -> color plugin
+Bundle 'peaksea'
+
+
+
+colorscheme peaksea
 
 " Activation of automatic indentation if automatic commands are activated
 " -----------------------------------------------------------------------
