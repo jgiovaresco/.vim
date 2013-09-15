@@ -20,7 +20,7 @@ Bundle 'gmarik/vundle'
 Bundle 'peaksea'
 
 
-
+set background=dark
 colorscheme peaksea
 
 " Activation of automatic indentation if automatic commands are activated
