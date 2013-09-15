@@ -1,4 +1,3 @@
-
 My vim configuration
 
 
@@ -22,3 +21,20 @@ To deploy this configuration on a new computer, follow these steps
 4. Install plugins (ignore potential error messages at the first start)
 ::
     vim +BundleInstall +qall
+
+
+Reminder
+=======
+
+Plugin install
+::
+    :BundleInstall
+    
+Plugin update
+::
+    :BundleUpdate
+
+Plugin delete
+::
+    Remove line(s) of the plugin(s), then execute :
+    :BundleClean
