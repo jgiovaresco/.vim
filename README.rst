@@ -8,7 +8,7 @@ To deploy this configuration on a new computer, follow these steps
 
 1. Clone this repository : 
 ::
-    git clone https://github.com/jgiovaresco/.vim.git
+    git clone git@github.com:jgiovaresco/.vim.git
 
 2. Create symbolic link :
 ::
